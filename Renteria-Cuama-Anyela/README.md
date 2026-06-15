@@ -226,8 +226,8 @@ A partir de esta información fue posible construir las representaciones gráfic
 
 <p align="center">
 <<img width="751" height="451" alt="image" src="https://github.com/user-attachments/assets/dd951b66-1cc5-46fd-b842-eaab8a66a67b" />
-">
-</p>
+
+
 
 ## Interpretación
 
