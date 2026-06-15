@@ -2,7 +2,8 @@
 
 # UNIVERSIDAD DEL PACÍFICO
 
-<img src="img/logo_unipacifico.png" width="220">
+<img src="<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/58560984-97bf-49fe-a9b7-12eaedfe6bab" />
+
 
 ## FACULTAD DE INGENIERÍA
 
