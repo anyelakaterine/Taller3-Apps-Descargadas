@@ -215,6 +215,16 @@ Para el desarrollo del proyecto se realizaron las siguientes etapas:
 ---
 
 # 6. TABLA DE FRECUENCIAS
+LÍMITE INFERIOR	LÍMITE SUPERIOR	PUNTO MEDIO (MARCA DE CLASE)	FRECUENCIA ABSOLUTA	FRECUENCIA RELATIVA	FRECUENCIA ACOMULADA	FRECUENCIA RELATIVA ACUMULADA
+30	45	38	7	14%	7	14%
+45	60	53	6	12%	13	26%
+60	75	68	10	20%	23	46%
+75	90	83	9	18%	32	64%
+90	105	98	8	16%	40	80%
+105	120	113	5	10%	45	90%
+120	135	128	5	10%	50	100%
+			50	100%		
+<img width="923" height="208" alt="image" src="https://github.com/user-attachments/assets/1d3cc4e3-3e9a-4443-9569-2b192175ca23" />
 
 La tabla de frecuencias permitió organizar los datos de manera estructurada, facilitando el cálculo de las frecuencias absolutas, relativas, acumuladas y relativas acumuladas.
 
