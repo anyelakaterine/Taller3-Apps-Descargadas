@@ -254,8 +254,9 @@ Este comportamiento confirma que la mayor parte de los usuarios se concentra en 
 # 9. OJIVA
 
 <p align="center">
-<img src="img/ojiva.png" width="900">
-</p>
+<<img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/cf868944-e5e3-4216-bb3e-0bf6f832b4e8" />
+
+
 
 ## Interpretación
 
