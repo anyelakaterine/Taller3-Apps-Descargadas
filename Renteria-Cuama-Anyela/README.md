@@ -2,7 +2,7 @@
 
 # UNIVERSIDAD DEL PACÍFICO
 
-"<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/58560984-97bf-49fe-a9b7-12eaedfe6bab">
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/58560984-97bf-49fe-a9b7-12eaedfe6bab">
 
 
 ## FACULTAD DE INGENIERÍA
